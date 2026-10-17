@@ -99,7 +99,7 @@ def call_gemini(prompt: str, image: Image.Image = None):
     client = get_client()
     if client is None:
         return None, "Gemini is not configured. Add GEMINI_API_KEY to your .env file and restart the app."
-    model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+    model = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
     try:
         contents = [prompt]
         if image is not None:
