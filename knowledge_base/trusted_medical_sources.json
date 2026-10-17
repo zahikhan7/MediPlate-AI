@@ -1,0 +1,66 @@
+[
+  {
+    "id": "medlineplus-food-allergy",
+    "title": "Food Allergy",
+    "publisher": "MedlinePlus, U.S. National Library of Medicine",
+    "topic": "food allergy allergens ingredients cross contact",
+    "url": "https://medlineplus.gov/foodallergy.html",
+    "content": "Food allergies occur when the immune system reacts to a food. Avoiding the food that causes the allergy is an important way to prevent a reaction. People with food allergies should read ingredient labels and ask about ingredients when eating food prepared by others. A photo alone cannot confirm that a meal is free from an allergen; hidden ingredients and cross-contact may be possible."
+  },
+  {
+    "id": "fda-food-allergies",
+    "title": "Food Allergies: What You Need to Know",
+    "publisher": "U.S. Food and Drug Administration",
+    "topic": "food allergy ingredient labels allergen safety",
+    "url": "https://www.fda.gov/food/buy-store-serve-safe-food/food-allergies-what-you-need-know",
+    "content": "People with food allergies should check food labels and be alert to ingredients that may cause allergic reactions. Packaged food labels and ingredient information are important safety checks. Do not rely on a visual image to rule out an allergen, and ask the food preparer about ingredients and possible cross-contact when information is uncertain."
+  },
+  {
+    "id": "medlineplus-warfarin",
+    "title": "Warfarin",
+    "publisher": "MedlinePlus, U.S. National Library of Medicine",
+    "topic": "warfarin medicine vitamin K food interaction medication",
+    "url": "https://medlineplus.gov/druginfo/meds/a682277.html",
+    "content": "Warfarin is an anticoagulant. Patients taking warfarin should follow their prescriber's instructions and discuss diet, supplements, other medicines, and changes in eating habits with their healthcare professional. Foods containing vitamin K can affect warfarin treatment; consistency and professional advice are important. Do not stop or change warfarin based on an AI-generated answer."
+  },
+  {
+    "id": "nhs-warfarin",
+    "title": "About warfarin",
+    "publisher": "National Health Service (NHS)",
+    "topic": "warfarin food vitamin K medicines",
+    "url": "https://www.nhs.uk/medicines/warfarin/",
+    "content": "Warfarin can interact with other medicines and some foods. People taking it should seek advice from a doctor or pharmacist before making major dietary changes or starting new medicines or supplements. Do not change a prescribed dose based on a chatbot response."
+  },
+  {
+    "id": "niddk-diabetes-eating",
+    "title": "Diabetes Diet, Eating, & Physical Activity",
+    "publisher": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "topic": "diabetes nutrition meals carbohydrates portion planning",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/diet-eating-physical-activity",
+    "content": "Healthy eating is part of diabetes management. Meal planning can consider portion sizes, carbohydrate-containing foods, vegetables, whole grains, and individual needs. There is no single meal plan that suits everyone with diabetes. People should work with their healthcare team to make a plan that fits their health, preferences, medicines, and goals."
+  },
+  {
+    "id": "heart-sodium",
+    "title": "How to Reduce Sodium in Your Diet",
+    "publisher": "U.S. Food and Drug Administration",
+    "topic": "sodium salt high blood pressure nutrition",
+    "url": "https://www.fda.gov/food/nutrition-education-resources-materials/sodium-your-diet",
+    "content": "Sodium is found in salt and many packaged and prepared foods. Reading the Nutrition Facts label and comparing sodium amounts can help people make informed choices. People with high blood pressure or other conditions may have individual sodium targets; personalized limits should be confirmed with a healthcare professional."
+  },
+  {
+    "id": "fdc-fooddata",
+    "title": "FoodData Central",
+    "publisher": "U.S. Department of Agriculture",
+    "topic": "food composition nutrition calories nutrients ingredients",
+    "url": "https://fdc.nal.usda.gov/",
+    "content": "FoodData Central is a source of food and nutrient composition data. Nutrition values depend on the exact food, brand, preparation method, ingredients, and serving size. A photo by itself is not sufficient to calculate exact calories or nutrients reliably; use verified food details and serving information."
+  },
+  {
+    "id": "medlineplus-medicines",
+    "title": "Medicines and Supplements",
+    "publisher": "MedlinePlus, U.S. National Library of Medicine",
+    "topic": "medicine interactions pharmacist medication safety supplements",
+    "url": "https://medlineplus.gov/druginformation.html",
+    "content": "Medicines can have side effects and can interact with other medicines, supplements, foods, and health conditions. Patients should follow the instructions provided by their healthcare professional and ask a pharmacist or prescriber when they are unsure about a possible interaction. Do not stop or change a prescribed medicine without professional guidance."
+  }
+]
